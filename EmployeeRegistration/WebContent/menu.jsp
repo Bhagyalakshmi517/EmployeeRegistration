@@ -1,0 +1,1 @@
+<a href="register.jsp"><font color="white">Register</font></a>&nbsp&nbsp&nbsp&nbsp&nbsp <a href="login.jsp"><font color="white">Login</font></a>&nbsp&nbsp&nbsp&nbsp&nbsp<a href="retrieve.jsp"><font color="white">Employee Details</font></a>
